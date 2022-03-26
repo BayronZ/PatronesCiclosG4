@@ -1,4 +1,4 @@
-# tuby patron3.rb 15
+# ruby patron3.rb 15
 #121212121212121
 
 
